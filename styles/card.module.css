@@ -1,0 +1,38 @@
+.th{
+    text-align: left;
+}
+.title{
+    display: flex;
+    margin: auto;
+    text-align: center;
+}
+.container_internal{
+    margin: auto;
+    width: 80%;
+    display: flex;
+}
+
+.name{
+    margin:auto;
+    display: flex
+}
+
+.container{
+    display: flex;
+    height: 100%;
+    justify-content: center;
+}
+
+.footer{
+    margin-top: 20px;
+}
+.info{
+    color:#ffff00
+ }
+
+ .go_back{
+    color:#000
+ }
+ .img_p{
+     border-radius:25px;
+ }
